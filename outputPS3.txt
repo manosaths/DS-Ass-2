@@ -1,0 +1,4 @@
+Shortest route from DC 'a' to reach Warehouse 'd' is  [ a c d ]
+and it has minimum travel distance 200km
+it will take him 200 minutes to reach
+Expected arrival time at the warehouse is 1:20pm

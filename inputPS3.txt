@@ -1,0 +1,11 @@
+a / b / 70
+a / c / 90
+a / f / 140
+b / c / 100
+b / d / 150
+c / d / 110
+c / f / 20
+d / e / 60
+e / f / 90
+DC Node: a
+WH Node: d
